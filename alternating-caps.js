@@ -5,6 +5,7 @@
 Example input: "I'm so happy it's Monday"
 Example output: "I'M So hApPy iT'S MoNdAy"
 */
+
 function altCaps(str){
     // assemble each character back into a new string
     let newStr = '';

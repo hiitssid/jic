@@ -34,5 +34,6 @@ function toTitleCase(str){
 }
 
 // Test your functions
+console.log(' ');
 console.log(capitalizeWord("pumpkin"));
 console.log(toTitleCase("pumpkin pranced purposefully across the pond"));

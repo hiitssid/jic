@@ -19,5 +19,6 @@ function whisper(str){
     }
     return 'shh...' + str.toLowerCase()
 }
+console.log(' ');
 console.log(whisper("PLEASE STOP SHOUTING."));
 console.log(whisper("MA'AM, this is a Wendy's!"));
